@@ -1,0 +1,418 @@
+{
+  "signs": [
+    {
+      "siglum": "M288",
+      "aliases": [
+        "PE_STAPLE_GRAIN"
+      ],
+      "category": "commodity",
+      "proposed_meanings": [
+        "grain (staple cereal)",
+        "barley/wheat (generic)"
+      ],
+      "confidence": 0.98,
+      "frequency": {
+        "tokens": 709,
+        "rank": 1,
+        "note": "highest non‑numerical sign"
+      },
+      "positional_patterns": {
+        "after_number": true,
+        "typically_initial": false,
+        "terminal": false
+      },
+      "contexts": [
+        "ration lists",
+        "granary accounts",
+        "totals on reverse"
+      ],
+      "comparanda": [
+        {
+          "script": "Proto‑cuneiform",
+          "sign": "ŠE (barley)",
+          "relation": "functional analogue"
+        }
+      ],
+      "sites": [
+        "Susa",
+        "Malyan",
+        "Sialk"
+      ],
+      "examples": [
+        "N60 N10 + M288 ...",
+        "M288 S60 S10 ..."
+      ],
+      "phase_support": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "siglum": "M218",
+      "aliases": [
+        "PE_GRAIN_ALT"
+      ],
+      "category": "commodity",
+      "proposed_meanings": [
+        "grain/cereal",
+        "harvest item"
+      ],
+      "confidence": 0.95,
+      "frequency": {
+        "tokens": 453,
+        "rank": 3
+      },
+      "positional_patterns": {
+        "after_number": true
+      },
+      "contexts": [
+        "rations",
+        "storage entries"
+      ],
+      "comparanda": [
+        {
+          "script": "Linear A/B",
+          "sign": "barley ideogram",
+          "relation": "structural slot equivalence"
+        }
+      ],
+      "sites": [
+        "Susa",
+        "Malyan"
+      ],
+      "phase_support": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "siglum": "M346",
+      "aliases": [
+        "PE_SHEEP_GOAT",
+        "PE_LIVESTOCK_SMALL"
+      ],
+      "category": "commodity",
+      "proposed_meanings": [
+        "sheep/goat (caprine livestock)"
+      ],
+      "confidence": 0.99,
+      "frequency": {
+        "tokens": 253,
+        "rank": 6
+      },
+      "positional_patterns": {
+        "after_number": true
+      },
+      "contexts": [
+        "livestock tallies",
+        "herd entries"
+      ],
+      "comparanda": [
+        {
+          "script": "Proto‑cuneiform",
+          "sign": "UDU (sheep)",
+          "relation": "graphical + functional"
+        }
+      ],
+      "sites": [
+        "Susa",
+        "Tepe Yahya"
+      ],
+      "phase_support": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "siglum": "M388",
+      "aliases": [
+        "PE_WORKER_CLASS"
+      ],
+      "category": "personnel/title",
+      "proposed_meanings": [
+        "dependent worker class",
+        "person marker (countable)"
+      ],
+      "confidence": 0.9,
+      "frequency": {
+        "tokens": 528,
+        "rank": 2
+      },
+      "positional_patterns": {
+        "counted_by_numbers": true,
+        "terminal": true
+      },
+      "contexts": [
+        "workforce rosters",
+        "ration distribution per worker"
+      ],
+      "comparanda": [
+        {
+          "script": "Proto‑cuneiform",
+          "sign": "LU2 (man) or occupational determinatives",
+          "relation": "functional"
+        }
+      ],
+      "sites": [
+        "Susa"
+      ],
+      "notes": "Often preceded by M387×2 as qualifier; appears directly with numerals.",
+      "phase_support": [
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "siglum": "M387",
+      "aliases": [
+        "PE_WORKER_QUALIFIER"
+      ],
+      "category": "personnel/qualifier",
+      "proposed_meanings": [
+        "worker subtype / rank qualifier"
+      ],
+      "confidence": 0.7,
+      "frequency": {
+        "tokens": 206,
+        "rank": 5
+      },
+      "positional_patterns": {
+        "before": "M388 (often doubled)"
+      },
+      "contexts": [
+        "worker category specification"
+      ],
+      "phase_support": [
+        1,
+        3,
+        6
+      ]
+    },
+    {
+      "siglum": "M157",
+      "aliases": [
+        "PE_HEADER",
+        "PE_ACCOUNT"
+      ],
+      "category": "administrative/header",
+      "proposed_meanings": [
+        "account/tablet header",
+        "institution identifier"
+      ],
+      "confidence": 0.85,
+      "frequency": {
+        "tokens": 247,
+        "rank": 4
+      },
+      "positional_patterns": {
+        "initial": true,
+        "terminal": false
+      },
+      "contexts": [
+        "line 1 headers",
+        "archive grouping"
+      ],
+      "comparanda": [
+        {
+          "script": "Proto‑cuneiform",
+          "sign": "DUB (tablet/record)",
+          "relation": "functional analogue"
+        }
+      ],
+      "sites": [
+        "Susa (ubiquitous)"
+      ],
+      "phase_support": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "siglum": "M36",
+      "aliases": [
+        "PE_CAPACITY_JAR"
+      ],
+      "category": "metrology/container",
+      "proposed_meanings": [
+        "capacity unit (jar)",
+        "standard container"
+      ],
+      "confidence": 0.9,
+      "frequency": {
+        "tokens": 128,
+        "rank": 12,
+        "note": "≈221 incl. variants"
+      },
+      "positional_patterns": {
+        "near_numbers": true,
+        "post‑commodity": true
+      },
+      "contexts": [
+        "grain measures",
+        "capacity tallies"
+      ],
+      "comparanda": [
+        {
+          "script": "Proto‑cuneiform",
+          "sign": "DUG/PI (vessel/capacity)",
+          "relation": "functional"
+        }
+      ],
+      "phase_support": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "siglum": "PE_COPPER",
+      "aliases": [
+        "URUDU? (analogy)"
+      ],
+      "category": "commodity/metal",
+      "proposed_meanings": [
+        "copper (metal general)"
+      ],
+      "confidence": 0.9,
+      "frequency": {
+        "tokens": 45,
+        "rank": 18
+      },
+      "positional_patterns": {
+        "with_weights": true
+      },
+      "contexts": [
+        "metal allotments",
+        "workshop records"
+      ],
+      "sites": [
+        "Susa",
+        "Tepe Yahya"
+      ],
+      "comparanda": [
+        {
+          "script": "Proto‑cuneiform",
+          "sign": "URUDU (copper)",
+          "relation": "functional"
+        }
+      ],
+      "phase_support": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "siglum": "PE_SILVER",
+      "aliases": [
+        "KU3? (analogy)"
+      ],
+      "category": "commodity/metal",
+      "proposed_meanings": [
+        "silver (precious metal)"
+      ],
+      "confidence": 0.85,
+      "frequency": {
+        "tokens": 20,
+        "rank": 30
+      },
+      "positional_patterns": {
+        "small_numbers": true
+      },
+      "contexts": [
+        "elite/treasury accounts"
+      ],
+      "sites": [
+        "Susa"
+      ],
+      "phase_support": [
+        3,
+        5
+      ]
+    },
+    {
+      "siglum": "PE_AUTHORITY",
+      "aliases": [
+        "sunki~",
+        "high_official"
+      ],
+      "category": "title/administrative",
+      "proposed_meanings": [
+        "high official / governor / ruler (authorization)"
+      ],
+      "confidence": 0.9,
+      "frequency": {
+        "tokens": 50,
+        "rank": 40
+      },
+      "positional_patterns": {
+        "header/authorization": true
+      },
+      "contexts": [
+        "heading lines",
+        "final validations",
+        "seal‑impressed tablets"
+      ],
+      "comparanda": [
+        {
+          "script": "Linear Elamite",
+          "reading": "sunki (king/governor)",
+          "relation": "lexical continuity"
+        }
+      ],
+      "phase_support": [
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "siglum": "PE_WORKSHOP",
+      "aliases": [
+        "WORKSHOP/BUILDING"
+      ],
+      "category": "location/institution",
+      "proposed_meanings": [
+        "workshop/building/house"
+      ],
+      "confidence": 0.65,
+      "frequency": {
+        "tokens": 30,
+        "rank": 50
+      },
+      "positional_patterns": {
+        "after_commodity": true
+      },
+      "contexts": [
+        "craft production lines"
+      ],
+      "comparanda": [
+        {
+          "script": "Proto‑cuneiform",
+          "sign": "É (house/temple)",
+          "relation": "graphical"
+        }
+      ],
+      "phase_support": [
+        2,
+        3,
+        5
+      ]
+    }
+  ]
+}

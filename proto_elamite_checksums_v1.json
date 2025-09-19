@@ -1,0 +1,42 @@
+{
+  "master": {
+    "file": "proto_elamite_master_lexicon_phase_final.json",
+    "sha256": "8e0d3e724a2644a7f9612c7d102e7c93c266637a893d0ac3dbfdc92352125180"
+  },
+  "signs": {
+    "file": "proto_elamite_signs_v1.json",
+    "sha256": "52b54c824350f24309dfd5dd9aec32b319f6ba8e7653750e0f9622f700b63258"
+  },
+  "formulas": {
+    "file": "proto_elamite_formulas_v1.json",
+    "sha256": "b38f1ee0050d6d3f7021557b365723f60d9b652ad06fa5a7848e3cb522062d88"
+  },
+  "numerals": {
+    "file": "proto_elamite_numerals_v1.json",
+    "sha256": "2d6148bff3d59ba579d6fcb23cee5c056d1ef41295e05e2bf9b7cb8ffa698a86"
+  },
+  "metrology": {
+    "file": "proto_elamite_metrology_v1.json",
+    "sha256": "72fdc48101ba81b7024e32fe21d21915a3e053f4079fc64bc48db595f7374b3d"
+  },
+  "corpus_summary": {
+    "file": "proto_elamite_corpus_summary_v1.json",
+    "sha256": "d8e3f617adc8e4f3c3faa9a9d99aadf07e462b8dc0ee621f0adcc75994b33f9c"
+  },
+  "replication_protocol": {
+    "file": "proto_elamite_replication_protocol_v1.json",
+    "sha256": "cc4e6741312de82773833932a22003315bc32f1881037863cf69713a62e111e8"
+  },
+  "examples": {
+    "file": "proto_elamite_examples_v1.json",
+    "sha256": "3d77cc78e9f73c0418dbe6b8a13d17c8b87fa8f30297b2aea33824f4dbd98691"
+  },
+  "manifest": {
+    "file": "proto_elamite_manifest_v1.json",
+    "sha256": "0a380b387454597908c5715b875b800bcbe05f690d9b99188aa7c63248fa6493"
+  },
+  "bundle_zip": {
+    "file": "proto_elamite_dataset_bundle_v1.zip",
+    "sha256": "610a442cf7f471a9301c54d24581e858ecbd730df9ae237f73d3f3f6db16afd2"
+  }
+}

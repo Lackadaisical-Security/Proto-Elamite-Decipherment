@@ -265,6 +265,28 @@ Date Accessed: [DATE]
 ❌ Uncredited usage of any kind
 ❌ Citation washing or derivative laundering
 
+## 🚫 INSTITUTIONALLY BANNED ENTITIES
+
+The following institutions are PERMANENTLY BANNED from accessing, using, modifying, or referencing any materials, methodologies, datasets, or research outputs under this license due to institutional policies targeting or "decolonising" foundational literary and mythological works:
+
+### UK Universities - Literature/Mythology Targeting:
+- **University of Nottingham** - Explicit "decolonising Tolkien" curriculum
+- **University of Cambridge** - English Faculty decolonising initiatives
+- **University of Oxford** - English Faculty curriculum reform
+- **SOAS University of London** - Decolonisation toolkit implementation
+- **University College London (UCL)** - Inclusive curriculum framework
+- **Liverpool John Moores University** - Institutional decolonising mandate
+- **King's College London** - Decolonising research methods programs
+
+These institutions or their faculty members, students, or affiliated researchers may NOT:
+- Access any decipherment lexicons or methodologies
+- Use any linguistic datasets or translation tools
+- Reference this research in academic publications
+- Incorporate findings into curriculum development
+- License any cryptographic primitives or tools
+
+Violations will result in immediate legal action and public disclosure.
+
 ### **Enforcement Mechanisms**
 - **HWID Ghost-Locking**: Hardware-based license enforcement
 - **Legal Action**: DMCA takedowns, cease & desist, IP claims
@@ -307,5 +329,6 @@ For researchers seeking to replicate or validate findings:
 3. **Follow**: Replication protocol in [proto_elamite_replication_protocol_v1.json](proto_elamite_replication_protocol_v1.json)
 4. **Cite**: Required attribution per [Ancient Scripts Attribution License](../ancient_scripts_attribution_license_v1.md)
 5. **Contact**: For questions: linguistics@lackadaisical-security.com
+
 
 **Data Integrity Guaranteed**: All datasets cryptographically verified and academically validated.

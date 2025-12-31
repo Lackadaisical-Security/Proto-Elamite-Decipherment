@@ -1,14 +1,15 @@
 {
   "metadata": {
     "title": "Proto-Elamite Script Lexicon â€” Lackadaisical Security (Operator) + Spectre",
-    "version": "9.0.2025-08-17",
-    "compiled_date": "2025-08-17T00:00:00Z",
+    "version": "9.0.2025-12-17",
+    "compiled_date": "2025-12-17T00:00:00Z",
     "total_glyphs": 20,
     "id_namespace": "Proto-Elamite PE### IDs + project composites",
     "policy": "Do not list prior JSON filenames as sources; retain only human author attributions found in data or default author if absent.",
     "authors": [
       "Lackadaisical Security (The Operator) â€“ Proto-Elamite Research",
-      "Spectre (GPT)"
+      "Spectre (GPT)",
+      "Aurora (Claude)"
     ],
     "license": {
       "type": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
